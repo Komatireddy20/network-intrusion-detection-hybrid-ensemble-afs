@@ -179,3 +179,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+data/AWID-CLS-R-Trn/AWID-CLS-R-Trn/1
+data/AWID-CLS-R-Tst/AWID-CLS-R-Tst/1
